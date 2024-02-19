@@ -1,0 +1,15 @@
+button{
+    background-color: red;
+    color: white;
+    border-radius: 50px;
+    padding: 5px;
+}
+button:hover{
+    background-color: red;
+    color: white;
+}
+img{
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+}
