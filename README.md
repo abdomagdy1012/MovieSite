@@ -1,3 +1,18 @@
+<img width="1263" height="860" alt="HomePage" src="https://github.com/user-attachments/assets/98c6e341-aa05-4ebe-8af7-40cc4bf42d0b" />
+
+<img width="1259" height="837" alt="Search" src="https://github.com/user-attachments/assets/0a84bb97-f37d-4dfc-b8c5-cccd13ba44d1" />
+
+<img width="1259" height="837" alt="Trailer" src="https://github.com/user-attachments/assets/c6ffdbd5-f5a9-486f-a24d-74a1862c35b0" />
+
+
+
+
+
+
+
+
+
+
 # Showtime
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
